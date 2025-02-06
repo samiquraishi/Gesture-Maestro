@@ -1,4 +1,4 @@
-# Hand Gesture Controller
+# Gestue Maestro - A hand gesture controller
 
 This project allows you to control certain computer actions (left arrow, right arrow, spacebar) using hand gestures recognized by your webcam.  It uses computer vision techniques with the Mediapipe library to track hand landmarks and interpret gestures based on the distance between specific fingertips.
 
